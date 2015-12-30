@@ -1,0 +1,3 @@
+[submodule "dependencies/KHCocoaLumberjack"]
+	path = dependencies/KHCocoaLumberjack
+	url = https://github.com/khawkins/CocoaLumberjack.git

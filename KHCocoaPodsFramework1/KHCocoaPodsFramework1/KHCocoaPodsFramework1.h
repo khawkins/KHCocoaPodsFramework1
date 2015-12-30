@@ -17,3 +17,4 @@ FOUNDATION_EXPORT const unsigned char KHCocoaPodsFramework1VersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <KHCocoaPodsFramework1/PublicHeader.h>
 
 #import <KHCocoaPodsFramework1/Framework1PublicClass1.h>
+#import <KHCocoaPodsFramework1/Framework1PublicClass2.h>
